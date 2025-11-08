@@ -1,4 +1,4 @@
-/*Francisco Colín Ulises
+o/*Francisco Colín Ulises
 Tarea 2, Ejercicio 2*/
 
 #include <stdio.h>
@@ -37,6 +37,6 @@ void main()
     printf("\nDel total de numeros ingresados: ");
     printf("\n%d  son positivos", positivo); 
     printf("\n%d  son negativos", negativo);
-    printf("\n%d  son nulos o 0", nulo); 
+    printf("\n%d  son nulos o cero", nulo); 
 
 }
