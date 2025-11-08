@@ -6,6 +6,7 @@ Tarea 2, Ejercicio 1*/
 
 void main()
 {
+    
     int a = 0, b = 0;
     int sum = 0, res = 0, mul = 0;
     
