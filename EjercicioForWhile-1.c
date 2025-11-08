@@ -12,8 +12,13 @@ void main()
     
     printf("Ingrese el numero del cual requiere su tabla de multiplicar: ");
     scanf("%d", &n);
-    printf("Ingrese hasta donde requiere su extension: ");
-    scanf("%d", &hasta);
+    
+    do
+    {
+        printf("Ingrese hasta donde requiere su extension: ");
+        scanf("%d", &hasta);
+    }
+    while (hasta < 1);
     
     while (num <= hasta)
     {
