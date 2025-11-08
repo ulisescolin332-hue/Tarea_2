@@ -1,5 +1,5 @@
 /*Francisco Colín Ulises
-Tarea 2, Ejercicio 6*/
+Tarea 2, Ejercicio 2*/
 
 #include <stdio.h>
 #include <math.h>
