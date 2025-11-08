@@ -7,11 +7,11 @@ Tarea 2, Ejercicio 2*/
 void main()
 {
     
-    int r = 0;
+    float r = 0;
     float Area = 0, Circunferencia = 0;
     
     printf("Ingrese el radio del circulo: ");
-    scanf("%d", &r);
+    scanf("%f", &r);
     
     Area = (3.141592 * pow(r,2));
     Circunferencia = 2 * 3.141592 * r;
