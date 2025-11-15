@@ -1,4 +1,4 @@
-o/*Francisco Colín Ulises
+/*Francisco Colín Ulises
 Tarea 2, Ejercicio 2*/
 
 #include <stdio.h>
