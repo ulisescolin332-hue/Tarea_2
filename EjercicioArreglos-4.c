@@ -21,6 +21,6 @@ void main()
     
     for (i; i < 100; i = i + 1)
     {
-        printf("[%d]  ", arr[i]);
+        printf("%d   ", arr[i]);
     }
 }
