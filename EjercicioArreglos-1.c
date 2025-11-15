@@ -17,13 +17,14 @@ void main()
     }
     while ((elementos < 1) || (elementos > 10));
     
-    for (i = 0; i < elementos; i = i + 1)
+    for (i; i < elementos; i = i + 1)
     {
         printf("ingrese un valor entero: ");
         scanf("%d", &arr[i]);
     }
-    
-    for (i = 0; i < elementos; i = i + 1)
+
+    i = 0;
+    for (i; i < elementos; i = i + 1)
     {
         sum = sum + arr[i];
     }
